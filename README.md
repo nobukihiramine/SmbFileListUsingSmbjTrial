@@ -13,6 +13,11 @@ Nobuki HIRAMINE : [http://www.hiramine.com](http://www.hiramine.com)
 
 ## License : ライセンス
 ```
+smbj is licensed under the Apache License, Version 2.0
+Copyright (C)2016 - SMBJ Contributors
+```
+
+```
 Copyright 2022 Nobuki HIRAMINE
 
 Licensed under the Apache License, Version 2.0 (the "License");
