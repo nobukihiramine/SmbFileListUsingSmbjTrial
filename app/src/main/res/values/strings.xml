@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmbFileListUsingSmbjTrial</string>
+
+    <!-- for FileSize Field -->
+    <string name="filesize_directory">(folder)</string>
+    <string name="filesize_workgroup">(workgroup)</string>
+    <string name="filesize_server">(server)</string>
+    <string name="filesize_share">(share)</string>
+    <string name="filesize_unknown">(unknown)</string>
+    <string name="filesize_kb">%,d KB</string>
+
+</resources>
